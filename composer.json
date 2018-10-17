@@ -1,0 +1,19 @@
+{
+    "name": "firestitch/pdf",
+    "type": "library",
+    "keywords": [
+        "pdf",
+        "fpdi",
+        "fpdf"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.0",
+        "setasign/fpdi-tcpdf": "^2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Firestitch": "src/"
+        }
+    }
+}
