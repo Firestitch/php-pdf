@@ -1,5 +1,6 @@
 <?	
 	namespace Firestitch;
+	require_once(dirname(__FILE__).'/../setasign/autoload.php');
 
 	use setasign\Fpdi\Tcpdf\Fpdi;
 
